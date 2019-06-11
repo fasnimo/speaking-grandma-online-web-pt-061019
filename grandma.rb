@@ -1,4 +1,8 @@
-def 
+def speak_to_grandma(phrase)
+  if 
+  elsif
+else 
+end
 end 
 
 
